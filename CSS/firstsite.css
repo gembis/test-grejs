@@ -1,0 +1,170 @@
+body {
+    font-family: sans-serif;
+    width: 1080px;
+    margin: auto;
+    background-color: lightpink;
+  }
+  
+  ul {
+    list-style-type: circle;
+  }
+  
+  .drinks {
+    background-color: lightyellow;
+  }
+  
+  .numbers {
+    background-color: lightskyblue;
+  }
+  
+  .hotpink {
+    background-color: hotpink;
+    line-height: 30px;
+  }
+  
+  .yellow {
+    background-color: yellow;
+    line-height: 30px;
+  }
+  
+  .blue {
+    background-color: deepskyblue;
+    line-height: 30px;
+  }
+  
+  #bolditalic {
+    font-weight: bold;  
+    font-style: italic;
+  }
+  
+  table, th, td {
+    border: 4px ridge lightblue;
+    padding: 20px;
+  }
+  
+  .whitestroke {
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+  }
+  
+  .pinkstroke {
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: hotpink;
+  }
+  
+  #yellowstroke {
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: yellow;
+  }
+  
+  #textalign {
+    text-align: left;
+    color: white;
+    font-size: 40px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: lightblue;
+  }
+  
+  #textalign2 {
+    text-align: right;
+    color: black;
+    font-size: 40px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: orange;
+  }
+  
+  .greenstroke {
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: lime;
+  }
+  
+  .purplestroke {
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: purple;
+  }
+  
+  #graystroke {
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: gray;
+  }
+  
+  #textalign3 {
+    text-align: middle;
+    color: black;
+    font-size: 40px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+  
+  .dimgreystroke {
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: dimgrey;
+  }
+  
+  .graystroke {
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: gray;
+  }
+  
+  #darkgreystroke {
+    color: black;
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: darkgrey;
+  }
+  
+  .awooga {
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: double;
+  }
+  
+  .skickamargin {
+    margin-bottom: 15px;
+  }
+  
+  .labels {
+    color: red;
+    
+  }
+  
+  #username {
+    color: lime;
+    background-color: lime;
+  }
+  
+  #pwd {
+    color: hotpink;
+  }
+  
+  #color {
+    width: 400px;
+    height: 100px;
+  }
+  
+  #date {
+    background-color: black;
+  }
+  
+  #submit {
+    height: 400px;
+    width: 400px;
+    text-align: right;
+  }
