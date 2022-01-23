@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     width: 1080px;
     margin: auto;
-    background-color: rgb(150, 87, 97);
+    background-color: rgb(54, 20, 70);
   }
   
   ul {
@@ -150,7 +150,7 @@ body {
   }
   
   #pwd {
-    color: hotpink;
+    color: rgb(26, 73, 26);
   }
   
   #color {
