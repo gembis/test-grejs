@@ -132,7 +132,7 @@ body {
   .awooga {
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-color: red;
+    text-decoration-color: rgb(56, 10, 10);
     text-decoration-style: double;
   }
   
