@@ -145,7 +145,7 @@ body {
   }
   
   #username {
-    color: lime;
+    color: rgb(0, 0, 0);
     background-color: lime;
   }
   
@@ -159,7 +159,7 @@ body {
   }
   
   #date {
-    background-color: black;
+    background-color: rgb(255, 0, 179);
   }
   
   #submit {
