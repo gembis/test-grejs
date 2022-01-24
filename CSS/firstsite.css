@@ -167,3 +167,8 @@ body {
     width: 400px;
     text-align: right;
   }
+
+  .image {
+    width: 200px;
+    height: 200px;
+  }
